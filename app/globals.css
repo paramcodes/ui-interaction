@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.btn{border:1px solid #6366f1;border-radius:.5rem;padding:.4rem .9rem;background:#eef2ff;font-weight:500}
+.btn:focus-visible{outline:3px solid #f59e0b;outline-offset:2px}.btn:disabled{opacity:.5}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+.sd-bar{transform-origin:left;animation:grow linear both;animation-timeline:scroll(nearest)}
+@media (prefers-reduced-motion:reduce){.sd-bar{animation:none}}
+@media (prefers-reduced-motion:reduce){::view-transition-group(*),::view-transition-old(*),::view-transition-new(*){animation:none}}
