@@ -9,6 +9,9 @@
 [![React Flow](https://img.shields.io/badge/@xyflow/react-12-ff0072)](https://reactflow.dev/)
 [![Vitest](https://img.shields.io/badge/Vitest-3.0-6e9f18?logo=vitest)](https://vitest.dev/)
 [![Playwright](https://img.shields.io/badge/Playwright-1.50-45ba4b?logo=playwright)](https://playwright.dev/)
+[![Deploy](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://ui-interaction-snowy.vercel.app)
+
+🔗 **Live Demo**: [https://ui-interaction-snowy.vercel.app](https://ui-interaction-snowy.vercel.app)
 
 ---
 
